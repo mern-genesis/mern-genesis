@@ -1,4 +1,4 @@
-![mern-genesis](static/img/MernLogo1.jpg)
+![mern-genesis](static/img/mern-logo.jpg)
 
 
 # MERN Genesis
